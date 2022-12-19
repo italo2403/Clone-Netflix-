@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    color:  #D81F26 ;
+    margin-bottom: 120px;
+    
+}
+.btn,.btn-primary{
+    margin-top: 130px;
+}
+.filmes{
+    margin-top: 20px;
+}
+.cor1{
+    background-color: #fc5203;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
+  
+ 
+  .bg-dark ,.text-center ,.text-white {
+    margin-top: 20px;
+  }
+  .nome{
+  margin-left: 40px;
+  
+  }
+  .text-center{
+	   color: #fff;
+	   margin-top: -5px;
+  }
+  .col-md-3{
+	  margin-top: 12px;
+	 
+  }
+ 
+.btn{
+	color:#fff;
+	border-width:2px;
+ border-style:solid;
+ border-color: #fff;
+	}
+	
